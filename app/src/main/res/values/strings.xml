@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">xmlexperiments</string>
+    <string name="lets_see">lets see</string>
+    <string name="your_spinner_label"> your spinner label</string>
+    <string-array name="weight_options">
+        <item>Kilograms</item>
+        <item>Pounds</item>
+        <item>Stones</item>
+    </string-array>
+</resources>
